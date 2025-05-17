@@ -1,3 +1,6 @@
 {
-  "item.kiritosfirstmod.alexandrite": "Alexandrite Gem"
+  "item.kiritosfirstmod.alexandrite": "Alexandrite Gem",
+  "item.kiritosfirstmod.raw_alexandrite": "Raw Alexandrite",
+
+  "block.kiritosfirstmod.alexandrite_block": "Block of Alexandrite"
 }
