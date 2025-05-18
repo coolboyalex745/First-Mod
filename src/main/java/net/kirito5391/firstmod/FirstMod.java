@@ -2,6 +2,7 @@ package net.kirito5391.firstmod;
 
 import com.mojang.logging.LogUtils;
 import net.kirito5391.firstmod.block.ModBlocks;
+import net.kirito5391.firstmod.item.ModCreativeModeTabs;
 import net.kirito5391.firstmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -37,6 +38,9 @@ public class FirstMod
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
@@ -58,6 +62,7 @@ public class FirstMod
         }
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.ALEXANDRITE_BLOCK);
+            event.accept(ModBlocks.RAW_ALEXANDRITE_BLOCK);
         }
     }
 
