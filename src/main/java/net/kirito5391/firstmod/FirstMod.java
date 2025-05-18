@@ -56,6 +56,7 @@ public class FirstMod
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
+        /*
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.ALEXANDRITE);
             event.accept(ModItems.RAW_ALEXANDRITE);
@@ -64,6 +65,7 @@ public class FirstMod
             event.accept(ModBlocks.ALEXANDRITE_BLOCK);
             event.accept(ModBlocks.RAW_ALEXANDRITE_BLOCK);
         }
+        */
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

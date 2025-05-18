@@ -2,8 +2,12 @@
   "item.kiritosfirstmod.alexandrite": "Alexandrite Gem",
   "item.kiritosfirstmod.raw_alexandrite": "Raw Alexandrite",
 
+  "item.kiritosfirstmod.chisel": "Chisel",
+
   "block.kiritosfirstmod.alexandrite_block": "Block of Alexandrite",
   "block.kiritosfirstmod.raw_alexandrite_block": "Block of Raw Alexandrite",
+ "block.kiritosfirstmod.alexandrite_ore": "Alexandrite Ore",
+  "block.kiritosfirstmod.alexandrite_deepslate_ore": "Alexandrite Deepslate Ore",
 
   "creativetab.kiritosfirstmod.alexandrite_items": "Alexandrite Items",
   "creativetab.kiritosfirstmod.alexandrite_blocks": "Alexandrite Blocks"
