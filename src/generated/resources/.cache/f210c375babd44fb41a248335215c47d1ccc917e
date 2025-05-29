@@ -1,4 +1,7 @@
-// 1.21	2025-05-29T20:07:37.720184	Tags for minecraft:block mod id kiritosfirstmod
+// 1.21	2025-05-29T22:35:02.0133487	Tags for minecraft:block mod id kiritosfirstmod
+a55c7e5cfd24f7beab2118603f65db77d2b0f453 data/minecraft/tags/block/fences.json
+1b09a0b4fb561466a0a0acf309fada00a1c9832a data/minecraft/tags/block/fence_gates.json
 8e3a4ce0f1097fd9e7f336257b6c3c802b4a2cbf data/minecraft/tags/block/mineable/pickaxe.json
 4dea1d71c748c55ddc71c779556f110e869a0bd8 data/minecraft/tags/block/needs_diamond_tool.json
 4020e1c2b8de49b5e94a1d89e6cce1a0e0efd080 data/minecraft/tags/block/needs_iron_tool.json
+e768d5f081ff9ec97178da7b30270a3bd1fbda72 data/minecraft/tags/block/walls.json

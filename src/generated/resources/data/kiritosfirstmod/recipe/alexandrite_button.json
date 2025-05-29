@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "alexandrite",
+  "ingredients": [
+    {
+      "item": "kiritosfirstmod:alexandrite"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "kiritosfirstmod:alexandrite_button"
+  }
+}

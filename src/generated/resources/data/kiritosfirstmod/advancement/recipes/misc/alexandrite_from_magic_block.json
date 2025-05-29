@@ -1,11 +1,11 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_magic_block": {
+    "has_alexandrite_block": {
       "conditions": {
         "items": [
           {
-            "items": "kiritosfirstmod:magic_block"
+            "items": "kiritosfirstmod:alexandrite_block"
           }
         ]
       },
@@ -21,7 +21,7 @@
   "requirements": [
     [
       "has_the_recipe",
-      "has_magic_block"
+      "has_alexandrite_block"
     ]
   ],
   "rewards": {

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "alexandrite",
+  "key": {
+    "#": {
+      "item": "kiritosfirstmod:alexandrite"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "kiritosfirstmod:alexandrite_door"
+  }
+}
