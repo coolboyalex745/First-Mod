@@ -1,6 +1,7 @@
 package net.kirito5391.firstmod.block;
 
 import net.kirito5391.firstmod.FirstMod;
+import net.kirito5391.firstmod.block.custom.MagicBlock;
 import net.kirito5391.firstmod.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -37,7 +38,8 @@ public class ModBlocks {
 
 
 
-
+public static final RegistryObject<Block> MAGIC_BLOCK = registerBlock("magic_block",
+        () -> new MagicBlock(BlockBehaviour.Properties.of().strength(2f).requiresCorrectToolForDrops()));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
