@@ -3,6 +3,6 @@
     "#kiritosfirstmod:needs_alexandrite_tool"
   ],
   "values": [
-    "#minecraft:incorrect_for_iron_tool"
+    "#minecraft:incorrect_for_diamond_tool"
   ]
 }

@@ -4,6 +4,16 @@
     "kiritosfirstmod:raw_alexandrite_block",
     "kiritosfirstmod:alexandrite_ore",
     "kiritosfirstmod:alexandrite_deepslate_ore",
-    "kiritosfirstmod:magic_block"
+    "kiritosfirstmod:magic_block",
+    "kiritosfirstmod:alexandrite_stairs",
+    "kiritosfirstmod:alexandrite_slab",
+    "kiritosfirstmod:alexandrite_pressure_plate",
+    "kiritosfirstmod:alexandrite_button",
+    "kiritosfirstmod:alexandrite_fence",
+    "kiritosfirstmod:alexandrite_fence_gate",
+    "kiritosfirstmod:alexandrite_wall",
+    "kiritosfirstmod:alexandrite_door",
+    "kiritosfirstmod:alexandrite_trapdoor",
+    "kiritosfirstmod:alexandrite_lamp"
   ]
 }

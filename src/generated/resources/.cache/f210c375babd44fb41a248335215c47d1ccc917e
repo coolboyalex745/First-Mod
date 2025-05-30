@@ -1,9 +1,9 @@
-// 1.21	2025-05-30T14:11:33.4705761	Tags for minecraft:block mod id kiritosfirstmod
-77012d2ad0d1273d5ba2988cbca040925111d276 data/kiritosfirstmod/tags/block/incorrect_for_alexandrite_tool.json
-ad77a894f3783ec98cf0aa849f12244da039140d data/kiritosfirstmod/tags/block/needs_alexandrite_tool.json
+// 1.21	2025-05-30T14:25:10.7492368	Tags for minecraft:block mod id kiritosfirstmod
+77f262a3605e284d9f2f06cd067a4c52363c83a7 data/kiritosfirstmod/tags/block/incorrect_for_alexandrite_tool.json
+3ea26c1175497b3c8a5c0434c8b3b8115e019d4d data/kiritosfirstmod/tags/block/needs_alexandrite_tool.json
 a55c7e5cfd24f7beab2118603f65db77d2b0f453 data/minecraft/tags/block/fences.json
 1b09a0b4fb561466a0a0acf309fada00a1c9832a data/minecraft/tags/block/fence_gates.json
-8e3a4ce0f1097fd9e7f336257b6c3c802b4a2cbf data/minecraft/tags/block/mineable/pickaxe.json
+15aa7372b3c868c21fe978193461f85ee30d1ebf data/minecraft/tags/block/mineable/pickaxe.json
 4dea1d71c748c55ddc71c779556f110e869a0bd8 data/minecraft/tags/block/needs_diamond_tool.json
 4020e1c2b8de49b5e94a1d89e6cce1a0e0efd080 data/minecraft/tags/block/needs_iron_tool.json
 e768d5f081ff9ec97178da7b30270a3bd1fbda72 data/minecraft/tags/block/walls.json

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "kiritosfirstmod:alexandrite"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "AA ",
+    "AS ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "kiritosfirstmod:alexandrite_axe"
+  }
+}
