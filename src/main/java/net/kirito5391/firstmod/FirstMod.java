@@ -2,6 +2,7 @@ package net.kirito5391.firstmod;
 
 import com.mojang.logging.LogUtils;
 import net.kirito5391.firstmod.block.ModBlocks;
+import net.kirito5391.firstmod.component.ModDataComponentTypes;
 import net.kirito5391.firstmod.item.ModCreativeModeTabs;
 import net.kirito5391.firstmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -43,6 +44,8 @@ public class FirstMod
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModDataComponentTypes.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);

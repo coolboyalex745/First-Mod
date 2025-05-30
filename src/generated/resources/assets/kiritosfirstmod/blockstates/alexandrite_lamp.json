@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "kiritosfirstmod:block/alexandrite_lamp_off"
+    },
+    "clicked=true": {
+      "model": "kiritosfirstmod:block/alexandrite_lamp_on"
+    }
+  }
+}
