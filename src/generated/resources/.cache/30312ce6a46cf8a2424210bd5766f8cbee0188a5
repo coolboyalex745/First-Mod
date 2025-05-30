@@ -1,8 +1,13 @@
-// 1.21	2025-05-29T22:11:26.0990842	Item Models: kiritosfirstmod
+// 1.21	2025-05-30T14:11:33.4695725	Item Models: kiritosfirstmod
 bf0eaf502a58e433a48b0ad649ae01caa13f95c5 assets/kiritosfirstmod/models/item/alexandrite.json
+361edf05156a0fcd8a1bbcab5d0cd0f9a7835953 assets/kiritosfirstmod/models/item/alexandrite_axe.json
 df380225c680323ebc021d2ea47127bcba71ac6f assets/kiritosfirstmod/models/item/alexandrite_button.json
 d954bd9302d328eb0aeff33cdec81b2ec132e0b3 assets/kiritosfirstmod/models/item/alexandrite_door.json
 eab4808fd8ed65a134f005446de62063814925b3 assets/kiritosfirstmod/models/item/alexandrite_fence.json
+83ad274f0635a792b79c61256466051498449f22 assets/kiritosfirstmod/models/item/alexandrite_hoe.json
+63d6c5898d886c2b29463b30072f5c6cee05088e assets/kiritosfirstmod/models/item/alexandrite_pickaxe.json
+bf35d98df332f5b48ef9c03780fc76d544a2aae9 assets/kiritosfirstmod/models/item/alexandrite_shovel.json
+ac3d80d47372a70d2f1537cc806382731be6fd8e assets/kiritosfirstmod/models/item/alexandrite_sword.json
 4ede5b93205655fb35129e97a050aeff12010687 assets/kiritosfirstmod/models/item/alexandrite_wall.json
 9b277a1fa31631c5db832ce1ad1173ed6b212d4d assets/kiritosfirstmod/models/item/aurora_ashes.json
 945c9dd1b18b500bc9caf4120af8023ada9fb600 assets/kiritosfirstmod/models/item/chisel.json
